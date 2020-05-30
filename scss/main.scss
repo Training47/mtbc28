@@ -80,8 +80,9 @@ $primary-color: #333;
 
 /* universal settings */
 
-{
-  box-sizing: border-box;
+* {
+  box-sizing: border-box; 
+
 }
 
 body {
